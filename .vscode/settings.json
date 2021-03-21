@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "actix",
+    "blazinglyfast",
+    "bson",
+    "chrono",
+    "dotenv",
+    "Encryptor",
+    "serde",
+    "thiserror"
+  ]
+}
